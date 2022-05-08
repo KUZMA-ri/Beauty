@@ -207,6 +207,13 @@ hr{
     font-size: 18px;
     font-weight: 700;
 }
+.grid-item-viewed{
+    text-align: center;
+}
+.grid-item-viewed .bg-white{
+    padding: 30px 30px;
+    margin-bottom: 80px;
+}
 .footer-top{
     display: flex;
     justify-content: space-between;
